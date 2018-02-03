@@ -9,6 +9,7 @@
 /** Umbrella header for MIKMIDI public interface. */
 
 // Core MIDI object wrapper
+
 #import "MIKMIDIObject.h"
 
 // MIDI port
@@ -81,13 +82,6 @@
 #import "MIKMIDIClock.h"
 #import "MIKMIDIPlayer.h"
 #import "MIKMIDIEndpointSynthesizer.h"
-
-// MIDI Mapping
-#import "MIKMIDIMapping.h"
-#import "MIKMIDIMappingItem.h"
-#import "MIKMIDIMappableResponder.h"
-#import "MIKMIDIMappingManager.h"
-#import "MIKMIDIMappingGenerator.h"
 
 // Intra-application MIDI command routing
 #import "NSUIApplication+MIKMIDI.h"

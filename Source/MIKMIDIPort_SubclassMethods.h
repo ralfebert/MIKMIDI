@@ -6,8 +6,8 @@
 //  Copyright (c) 2013 Mixed In Key. All rights reserved.
 //
 
-#import <MIKMIDI/MIKMIDIPort.h>
-#import <MIKMIDI/MIKMIDICompilerCompatibility.h>
+#import "MIKMIDIPort.h"
+#import "MIKMIDICompilerCompatibility.h"
 
 NS_ASSUME_NONNULL_BEGIN
 
